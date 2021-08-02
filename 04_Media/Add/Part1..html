@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>part 1</title>
+</head>
+<body>
+
+<img src="Icon-Python.png" alt="img" align="right" width="250" height="250">
+<h1 align="center">HOW-TO: Программа на Python, Часть 1</h1>
+<ul>
+<li><a href=Part1..html>Программа на Python — часть 1</a></li>
+<li><a href=Part2.html>Программа на Python — часть 2</a></li>
+<li><a href=Part3.html>Программа на Python — часть 3</a></li>
+</ul>
+<h2 id="soderjanie">Cодержание</h2>
+<h3>HOW-TO: Программа на Python, Часть 1</h3>
+<ul>
+<li><a href="#glava1">Наша первая программа</a></li>
+<li><a href="#glava2">Пример цикла For</a></li>
+</ul>
+<p>Из множества существующих языков программирования Python — один из самых лёгких
+в изучении. Он создан в конце 80-х годов XX века, но с тех пор он сильно изменился.
+Хотя Python входит в состав большинства дистрибутивов Linux, на него часто не
+обращают внимания при выборе языка для изучения. В этой статье мы рассмотрим
+создание консольных приложений, а в следующей — программирование графических
+интерфейсов (GUI). Давайте создадим простую программу прямо сейчас.</p>
+<h2 id="glava1">Наша первая программа</h2>
+<p><a href="#soderjanie">К содержанию</a></p>
+<p>Наберём код в текстовом редакторе (например, в <b>gedit</b>). Потом мы разберёмся, что делает каждая
+строка и пойдём дальше.</p>
+<p>Введите эти 4 строки:</p>
+<code>#!/usr/bin/env python<br>
+print 'Hello. I am a python program.'<br>
+name = raw_input("What is your name?")<br>
+print "Hello there, " + name + "!"</code>
+<p>Это всё. Сохраните файл как <b>hello.py</b> в любом месте. Я предлагаю сохранить его в папке
+<b>python_examples</b> в домашнем каталоге. Этот пример показывает, как просто написать программу на
+Python. Для запуска программы нужно сделать её файл исполняемым. Для этого введите в терминале</p>
+<em><b>chmod +x hello.py</b></em>
+<p>в папке, в которой вы сохранили программу. Теперь запустите её.</p>
+<code>greg@earth:~/python_examples$ ./hello.py<br>
+Hello. I am a python program.<br>
+What is your name? Ferd Burphel<br>
+Hello there, Ferd Burphel!<br>
+greg@earth:~/python_examples$</code>
+<p>Вот и всё.</p> 
+<h2 id="glava2">Пример цикла For</h2>
+<p><a href="#soderjanie">К содержанию</a></p>
+<p>Теперь давайте рассмотрим пример программирования цикла. Запустите текстовый редактор и
+наберите следующую программу:</p>
+<code>#!/usr/bin/env python<br>
+for cntr in range(0,10):<br>
+&nbsp;&nbsp;print cntr</code>
+<p><em>Не забудьте поставить символ табуляции перед строкой «print cntr».</em> Это важно. В Python для
+указания на блоки кода используются не круглые «(» и фигурные «{» скобки как в других языках
+программирования, а отступы.</p>
+<table width="100%">
+<tr>
+<th><a href="Part3.html"><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <line id="svg_9" y2="36" x2="86" y1="36" x1="41" stroke="#000" fill="none"/>
+  <line id="svg_10" y2="67" x2="88" y1="67" x1="38" stroke="#000" fill="none"/>
+  <line id="svg_11" y2="68" x2="84" y1="36" x1="84" stroke="#000" fill="none"/>
+  <line id="svg_13" y2="77" x2="39" y1="67" x1="39" stroke="#000" fill="none"/>
+  <line id="svg_15" y2="26" x2="39" y1="36" x1="39" stroke="#000" fill="none"/>
+  <line id="svg_17" y2="36" x2="38" y1="36" x1="47" stroke="#000" fill="none"/>
+  <line id="svg_18" y2="52" x2="15" y1="27" x1="39" stroke="#000" fill="none"/>
+  <line id="svg_21" y2="52" x2="16" y1="74" x1="39" stroke="#000" fill="none"/>
+ </g>
+</svg></a></th>
+<th><a href="Part1..html"><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect id="svg_49" height="41" width="53" y="41" x="22" stroke="#000" fill="none"/>
+  <line id="svg_51" y2="11" x2="51" y1="43" x1="22" stroke="#000" fill="none"/>
+  <line id="svg_53" y2="42" x2="75" y1="12" x1="51" stroke="#000" fill="none"/>
+  <rect id="svg_54" height="22" width="27" y="50" x="35" stroke="#000" fill="none"/>
+  <line id="svg_56" y2="72" x2="48" y1="51" x1="48" stroke="#000" fill="none"/>
+  <line id="svg_58" y2="60" x2="62" y1="60" x1="35" stroke="#000" fill="none"/>
+ </g>
+
+</svg></a></th>
+<th><a href="Part2.html"><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <line id="svg_1" y2="76" x2="12" y1="31" x1="12" stroke="#000" fill="none"/>
+  <line id="svg_2" y2="33" x2="63" y1="33" x1="12" stroke="#000" fill="none"/>
+  <line id="svg_3" y2="74" x2="63" y1="74" x1="12" stroke="#000" fill="none"/>
+  <line id="svg_4" y2="20" x2="61" y1="33" x1="61" stroke="#000" fill="none"/>
+  <line id="svg_5" y2="85" x2="62" y1="73" x1="62" stroke="#000" fill="none"/>
+  <line id="svg_6" y2="54" x2="94" y1="22" x1="61" stroke="#000" fill="none"/>
+  <line id="svg_7" y2="53" x2="92" y1="84" x1="62" stroke="#000" fill="none"/>
+ </g>
+</svg></a></th>
+</tr>
+</table>
+
+</body>
+</html>
