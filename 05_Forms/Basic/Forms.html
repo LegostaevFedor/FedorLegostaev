@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Forms</title>
+</head>
+<body>
+<table width="700px">
+<tr>
+<td>
+<form method="get" action="http://fe.it-academy.by/TestForm.php">
+<fieldset>
+<legend>Строка поиска</legend>
+<input name="1Block" maxlength="10">
+<input type="submit" value="Искать">
+<br>
+<label><input type="radio" name="site/google" value="site">на сайте</label>
+<label><input type="radio" name="site/google" value="google">в google</label>
+</fieldset>
+</form>
+</td>
+<td>
+<form method="get" action="http://fe.it-academy.by/TestForm.php">
+<fieldset>
+<legend>Строка поиска</legend>
+<input name="2Block" required autofocus>
+<input type="submit" value="Искать">
+<br>
+<label><input type="radio" name="site/google" value="site">на сайте</label>
+<label><input type="radio" name="site/google" value="google">в google</label>
+</fieldset>
+</form>
+</td>
+</tr>
+<tr>
+<td>
+<form method="get" action="http://fe.it-academy.by/TestForm.php">
+<fieldset>
+<legend>Авторизируйтесь</legend>
+<label><input name="3Block_Login" required> Логин</label>
+<br>
+<label><input type="password" name="3Block_Name" required> Пароль</label>
+<br>
+<label><input type="checkbox" name="3Block_Galka">Оставаться в системе</label>
+<br>
+<input type="submit" value="Войти">
+</fieldset>
+</form>
+</td>
+<td>
+<form method="get" action="http://fe.it-academy.by/TestForm.php">
+<fieldset>
+<legend>Как вам?</legend>
+<label><input type="radio" name="4Block" value="nothing">ничего</label>
+<br><label><input type="radio" name="4Block" value="notBad">неплохо</label>
+<br><label><input type="radio" name="4Block" value="good">хорошо</label>
+<br><label><input type="radio" name="4Block" value="super">супер</label>
+<input type="hidden" name="data_voite" value="2013.12.31">
+<br><input type="submit" value="Отправить">
+</fieldset>
+</form>
+</td>
+</tr>
+<tr>
+<td>
+<form method="post" action="http://fe.it-academy.by/TestForm.php">
+<fieldset>
+<legend>Оставьте Ваш отзыв</legend>
+<label><input name="5Block_name" required> Имя</label>
+<br><label><input type="email" name="5Block_email" pattern="[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[a-zA-Z0-9]+" required> e-mail</label>
+<br><textarea name="comment" placeholder="Форма отправки"></textarea>
+<br><input type="submit" value="Отправить">
+</fieldset>
+</form>
+</td>
+<td>
+<form method="get" action="http://fe.it-academy.by/TestForm.php">
+<fieldset>
+<legend>Города РБ</legend>
+<select name="6Block_gorod1" size="1">
+<option value="Brest">Брест</option>
+<option value="Minsk">Минск</option>
+<option value="Vitebsk">Витебск</option>
+<option value="Mogilev">Могилёв</option>
+</select>
+<select name="6Block_gorod2">
+<optgroup label="Города РБ">
+<option value="Brest">Брест</option>
+<option value="Minsk">Минск</option>
+<option value="Vitebsk">Витебск</option>
+</optgroup>
+<optgroup label="Города России">
+<option value="Moskva">Москва</option>
+<option value="Tver">Тверь</option>
+<option value="Pscov">Псков</option>
+</select>
+<input type="submit" value="Ок"></p>
+</fieldset>
+</form>
+</td>
+</tr>
+<tr>
+<td>
+<form method="post" action="http://fe.it-academy.by/TestForm.php" enctype="multipart/form-data">
+<fieldset>
+<legend>Upload</legend>
+<div>Файл:</div>
+<input type="file" name="files">
+<input name="years">
+<input type="submit" value="загрузить">
+</form>
+</td>
+<td>
+<form method="get" action="http://fe.it-academy.by/TestForm.php">
+<fieldset>
+<legend>Строка поиска</legend>
+<input type="text" name="8Block_infoRus" pattern="^[А-Яа-яЁё]+$" placeholder="Только русские буквы">
+<br><input type="tel" name="tel" pattern="^\+[0-9]{3}(\s+)?\(?[0-9]{2}\)?(\s+)?[0-9]{3}-?[0-9]{2}-?[0-9]{2}$" placeholder="+ХХХ-ХХ-ХХХ-ХХ-ХХ">
+<br><input type="submit" value="Проверить">
+</fieldset>
+</form>
+</td>
+</tr>
+</table>
+</body>
+</html>
