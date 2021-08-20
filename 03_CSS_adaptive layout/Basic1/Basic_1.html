@@ -1,0 +1,261 @@
+<!DOCTYPE>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>adaptive_navigation</title>
+ </head>
+<style>
+  .menu{
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   height: 40px;
+  }
+  .menu ul{
+   display: none;
+   list-style: none;
+   margin: 0;
+   padding: 0;
+   position: absolute;
+   top: 100%;
+  }
+  .menu li:hover ul{
+   display: block;
+   width: 100px
+  }
+  .menu li{
+   float: left;
+   position: relative;
+  }
+  .menu a{
+   display: inline-block;
+   border: 1px solid black;
+   background-color: CCCCCC;
+   padding: 5px;
+   text-decoration: none;
+   margin: 2px;
+  }
+  @media all and (max-width: 472px){
+   .menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 40px;
+   }
+   .menu ul{
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 100%;
+   }
+   .menu li:hover ul{
+    display: block;
+    width: 100px
+   }
+   .menu li{
+    float: left;
+    position: relative;
+   }
+   .menu a{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: CCCCCC;
+    padding: 5px;
+    text-decoration: none;
+    margin: 2px;
+   }
+   .thue{
+   margin: 36px -106px;
+   }
+  }
+  @media all and (max-width: 400px){
+   .menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 40px;
+   }
+   .menu ul{
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 100%;
+   }
+   .menu li:hover ul{
+    display: block;
+    width: 100px
+   }
+   .menu li{
+    float: left;
+    position: relative;
+   }
+   .menu a{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: CCCCCC;
+    padding: 5px;
+    text-decoration: none;
+    margin: 2px;
+   }
+   .thue{
+    margin: 36px -106px;
+   }
+   .wen{
+    margin: 72px -106px;
+   }
+  }
+  @media all and (max-width: 342px){
+   .menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 40px;
+   }
+   .menu ul{
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 100%;
+   }
+   .menu li:hover ul{
+    display: block;
+    width: 100px
+   }
+   .menu li{
+    float: left;
+    position: relative;
+   }
+   .menu a{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: CCCCCC;
+    padding: 5px;
+    text-decoration: none;
+    margin: 2px;
+   }
+   .thue{
+    margin: 36px -106px;
+   }
+   .wen{
+    margin: 72px -106px;
+   }
+   .thur{
+    margin: 108px -106px;
+   }
+  }
+  @media all and (max-width: 270px){
+   .menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 40px;
+   }
+   .menu ul{
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 100%;
+   }
+   .menu li:hover ul{
+    display: block;
+    width: 100px
+   }
+   .menu li{
+    float: left;
+    position: relative;
+   }
+   .menu a{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: CCCCCC;
+    padding: 5px;
+    text-decoration: none;
+    margin: 2px;
+   }
+   .thue{
+    margin: 36px -106px;
+   }
+   .wen{
+    margin: 72px -106px;
+   }
+   .thur{
+    margin: 108px -106px;
+   }
+   .fri{
+    margin: 144px -106px;
+   }
+  }  
+  @media all and (max-width: 205px){
+   .menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 40px;
+   }
+   .menu ul{
+    display: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 100%;
+   }
+   .menu li:hover ul{
+    display: block;
+    width: 100px
+   }
+   .menu li{
+    float: left;
+    position: relative;
+   }
+   .menu a{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: CCCCCC;
+    padding: 5px;
+    text-decoration: none;
+    margin: 2px;
+   }
+   .thue{
+    margin: 36px -106px;
+   }
+   .wen{
+    margin: 72px -106px;
+   }
+   .thur{
+    margin: 108px -106px;
+   }
+   .fri{
+    margin: 144px -106px;
+   }
+   .sut{
+    margin: 180px -106px;
+   }
+  }
+ </style>
+ <body>
+  <ul class="menu">
+   <li class="mon"><a href="#">Понедельник</a></li>
+   <li class="thue"><a href="#">Вторник</a></li>
+   <li class="wen"><a href="#">Среда</a>
+    <ul>
+      <li><a href="#">Завтрак</a></li>
+      <li><a href="#">Обед</a></li>
+      <li><a href="#">Ужин</a></li>
+    </ul></li>
+   <li class="thur"><a href="#">Четверг</a></li>
+   <li class="fri"><a href="#">Пятница</a></li>
+   <li class="sut"><a href="#">Суббота</a></li>
+  </ul>
+
+ </body>
+</html>
