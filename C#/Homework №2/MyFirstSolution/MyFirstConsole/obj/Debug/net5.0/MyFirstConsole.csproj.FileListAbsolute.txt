@@ -1,0 +1,16 @@
+D:\VS задания\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.exe
+D:\VS задания\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.deps.json
+D:\VS задания\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.runtimeconfig.json
+D:\VS задания\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.runtimeconfig.dev.json
+D:\VS задания\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.dll
+D:\VS задания\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\ref\MyFirstConsole.dll
+D:\VS задания\MyFirstSolution\MyFirstConsole\bin\Debug\net5.0\MyFirstConsole.pdb
+D:\VS задания\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.csproj.AssemblyReference.cache
+D:\VS задания\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS задания\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.AssemblyInfoInputs.cache
+D:\VS задания\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.AssemblyInfo.cs
+D:\VS задания\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.csproj.CoreCompileInputs.cache
+D:\VS задания\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.dll
+D:\VS задания\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\ref\MyFirstConsole.dll
+D:\VS задания\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.pdb
+D:\VS задания\MyFirstSolution\MyFirstConsole\obj\Debug\net5.0\MyFirstConsole.genruntimeconfig.cache
