@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS задания\\MyFirstSolution\\MyFirstConsole\\MyFirstConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\ГитХаб\\FedorLegostaev\\C#\\Homework №2\\MyFirstSolution\\MyFirstConsole\\MyFirstConsole.csproj",
       "projectName": "MyFirstConsole",
-      "projectPath": "D:\\VS задания\\MyFirstSolution\\MyFirstConsole\\MyFirstConsole.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\ГитХаб\\FedorLegostaev\\C#\\Homework №2\\MyFirstSolution\\MyFirstConsole\\MyFirstConsole.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\VS задания\\MyFirstSolution\\MyFirstConsole\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\ГитХаб\\FedorLegostaev\\C#\\Homework №2\\MyFirstSolution\\MyFirstConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS задания\\MyFirstSolution\\MySecondConsole\\MySecondConsole.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\ГитХаб\\FedorLegostaev\\C#\\Homework №2\\MyFirstSolution\\MySecondConsole\\MySecondConsole.csproj": {}
   },
   "projects": {
-    "D:\\VS задания\\MyFirstSolution\\MySecondConsole\\MySecondConsole.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\ГитХаб\\FedorLegostaev\\C#\\Homework №2\\MyFirstSolution\\MySecondConsole\\MySecondConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS задания\\MyFirstSolution\\MySecondConsole\\MySecondConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\ГитХаб\\FedorLegostaev\\C#\\Homework №2\\MyFirstSolution\\MySecondConsole\\MySecondConsole.csproj",
         "projectName": "MySecondConsole",
-        "projectPath": "D:\\VS задания\\MyFirstSolution\\MySecondConsole\\MySecondConsole.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\ГитХаб\\FedorLegostaev\\C#\\Homework №2\\MyFirstSolution\\MySecondConsole\\MySecondConsole.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\VS задания\\MyFirstSolution\\MySecondConsole\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\ГитХаб\\FedorLegostaev\\C#\\Homework №2\\MyFirstSolution\\MySecondConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
