@@ -1,0 +1,7 @@
+D:\VisualStudio\Репоз\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\VisualStudio\Репоз\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\VisualStudio\Репоз\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\VisualStudio\Репоз\ConsoleApp9\ConsoleApp9\obj\Debug\Array1.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Репоз\ConsoleApp9\ConsoleApp9\obj\Debug\Array1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Репоз\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\VisualStudio\Репоз\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb

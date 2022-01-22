@@ -1,0 +1,16 @@
+D:\VisualStudio\Репоз\ConsoleApp9\Array2\bin\Debug\Array2.exe.config
+D:\VisualStudio\Репоз\ConsoleApp9\Array2\bin\Debug\Array2.exe
+D:\VisualStudio\Репоз\ConsoleApp9\Array2\bin\Debug\Array2.pdb
+D:\VisualStudio\Репоз\ConsoleApp9\Array2\obj\Debug\Array2.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Репоз\ConsoleApp9\Array2\obj\Debug\Array2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Репоз\ConsoleApp9\Array2\obj\Debug\Array2.exe
+D:\VisualStudio\Репоз\ConsoleApp9\Array2\obj\Debug\Array2.pdb
+D:\VisualStudio\Репоз\ConsoleApp9\Array2\obj\Debug\Array2.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\ДЗ\Legostaev_Fedor3\Array2\bin\Debug\Array2.exe.config
+D:\OneDrive\Рабочий стол\ДЗ\Legostaev_Fedor3\Array2\bin\Debug\Array2.exe
+D:\OneDrive\Рабочий стол\ДЗ\Legostaev_Fedor3\Array2\bin\Debug\Array2.pdb
+D:\OneDrive\Рабочий стол\ДЗ\Legostaev_Fedor3\Array2\obj\Debug\Array2.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\ДЗ\Legostaev_Fedor3\Array2\obj\Debug\Array2.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive\Рабочий стол\ДЗ\Legostaev_Fedor3\Array2\obj\Debug\Array2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\ДЗ\Legostaev_Fedor3\Array2\obj\Debug\Array2.exe
+D:\OneDrive\Рабочий стол\ДЗ\Legostaev_Fedor3\Array2\obj\Debug\Array2.pdb
