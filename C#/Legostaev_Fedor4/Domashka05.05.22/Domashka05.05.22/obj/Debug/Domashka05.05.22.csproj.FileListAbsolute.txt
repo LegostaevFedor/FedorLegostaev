@@ -1,0 +1,8 @@
+D:\VisualStudio\Репоз\Domashka05.05.22\Domashka05.05.22\bin\Debug\Domashka05.05.22.exe.config
+D:\VisualStudio\Репоз\Domashka05.05.22\Domashka05.05.22\bin\Debug\Domashka05.05.22.exe
+D:\VisualStudio\Репоз\Domashka05.05.22\Domashka05.05.22\bin\Debug\Domashka05.05.22.pdb
+D:\VisualStudio\Репоз\Domashka05.05.22\Domashka05.05.22\obj\Debug\Domashka05.05.22.csproj.AssemblyReference.cache
+D:\VisualStudio\Репоз\Domashka05.05.22\Domashka05.05.22\obj\Debug\Domashka05.05.22.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Репоз\Domashka05.05.22\Domashka05.05.22\obj\Debug\Domashka05.05.22.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Репоз\Domashka05.05.22\Domashka05.05.22\obj\Debug\Domashka05.05.22.exe
+D:\VisualStudio\Репоз\Domashka05.05.22\Domashka05.05.22\obj\Debug\Domashka05.05.22.pdb

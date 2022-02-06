@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d11d381-bf31-42c5-b6b0-1ecc03c30b0e": {
+      "ProjectGuid": "6d11d381-bf31-42c5-b6b0-1ecc03c30b0e",
+      "DisplayName": "Domashka05.05.22",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
