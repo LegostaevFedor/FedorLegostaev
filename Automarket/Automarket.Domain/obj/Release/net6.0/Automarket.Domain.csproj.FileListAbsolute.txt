@@ -1,0 +1,11 @@
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\bin\Release\net6.0\Automarket.Domain.deps.json
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\bin\Release\net6.0\Automarket.Domain.dll
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\bin\Release\net6.0\ref\Automarket.Domain.dll
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\bin\Release\net6.0\Automarket.Domain.pdb
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\obj\Release\net6.0\Automarket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\obj\Release\net6.0\Automarket.Domain.AssemblyInfoInputs.cache
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\obj\Release\net6.0\Automarket.Domain.AssemblyInfo.cs
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\obj\Release\net6.0\Automarket.Domain.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\obj\Release\net6.0\Automarket.Domain.dll
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\obj\Release\net6.0\ref\Automarket.Domain.dll
+D:\VisualStudio\Репоз\Automarket\Automarket.Domain\obj\Release\net6.0\Automarket.Domain.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9b1913d-cada-430c-b5d8-b9615e0da6ec": {
+      "ProjectGuid": "c9b1913d-cada-430c-b5d8-b9615e0da6ec",
+      "DisplayName": "Automarket",
+      "ColorIndex": 0
+    },
+    "36e5801b-af42-49bf-a2e3-c4f9e54ad9bb": {
+      "ProjectGuid": "36e5801b-af42-49bf-a2e3-c4f9e54ad9bb",
+      "DisplayName": "Automarket.Domain",
+      "ColorIndex": 1
+    },
+    "e204d8a4-b401-414d-89d4-ffcf89585279": {
+      "ProjectGuid": "e204d8a4-b401-414d-89d4-ffcf89585279",
+      "DisplayName": "Automarket.DAL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

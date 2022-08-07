@@ -1,0 +1,15 @@
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\bin\Release\net6.0\Automarket.DAL.deps.json
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\bin\Release\net6.0\Automarket.DAL.dll
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\bin\Release\net6.0\ref\Automarket.DAL.dll
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\bin\Release\net6.0\Automarket.DAL.pdb
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\bin\Release\net6.0\Automarket.Domain.dll
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\bin\Release\net6.0\Automarket.Domain.pdb
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\obj\Release\net6.0\Automarket.DAL.csproj.AssemblyReference.cache
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\obj\Release\net6.0\Automarket.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\obj\Release\net6.0\Automarket.DAL.AssemblyInfoInputs.cache
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\obj\Release\net6.0\Automarket.DAL.AssemblyInfo.cs
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\obj\Release\net6.0\Automarket.DAL.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\obj\Release\net6.0\Automarket.DAL.csproj.CopyComplete
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\obj\Release\net6.0\Automarket.DAL.dll
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\obj\Release\net6.0\ref\Automarket.DAL.dll
+D:\VisualStudio\Репоз\Automarket\Automarket.DAL\obj\Release\net6.0\Automarket.DAL.pdb
